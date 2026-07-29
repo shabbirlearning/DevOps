@@ -64,7 +64,7 @@ As a Linux System Administrator, your responsibilities include:
       │
  Application Server
       │
- Amazon RDS / MySQL
+     MariaDB
       │
  Daily Backup → Amazon S3
 ```
